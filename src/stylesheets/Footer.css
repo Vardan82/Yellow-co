@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Karla&family=Unna:ital@1&display=swap');
+
+
+.footer{
+    margin: auto;
+    width: 70%;
+    padding: 30px 90px 0;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+form input{
+    width: 50%;
+    height: 60px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: 1px solid rgb(110, 110, 247);
+    margin-top: 15px;
+    padding: 0 0 0 10px;
+}
+textarea{
+    width: 50%;
+    font-size: 15px;
+    border-radius: 10px;
+    border: 1px solid rgb(110, 110, 247);
+    margin-top: 15px;
+    padding: 20px 0 0 10px;
+}
+.send_message{
+    width: 15%;
+    height: 50px;
+    background-color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    margin: 15px 400px 0 0;
+    border: 1px solid rgb(110, 110, 247);
+    background-color: rgb(57, 157, 250);
+}
+
+.send_message:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.linel_footer{
+    text-align: center;
+    width: 90%;
+    height: 1px;
+    border: .1px solid  rgb(230, 230, 230);
+    margin-top: 40px;
+    
+}
+
+.footer_informs{
+    display: flex;
+    width: 100%;
+}
+
+.footer_inform{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.footer_inform a{
+    font-size: 19px;
+    padding: 17px 0;
+    text-decoration: none;
+    color: black;
+     margin-top: 30px;
+     line-height: 5px;
+}
+
+.footer_inform a:hover{
+    color: rgb(209, 165, 52);
+}
+
+.icon_hop_on_our_email_list_footer{
+    width: 22%;
+    display: flex;
+    justify-content: start;
+    margin-top: 150px;
+}
+.icon_hop_on_our_email_list_footer img{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+}
+
+.foter_finish{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 17px ;
+}
+
+.instagram_facebook_login_contact_copyright_yellow_co p{
+    padding: 17px 17px 17px 0;
+    font-size: 12px;
+}
+
+.spread_goodness_and_bloom3_get_it_girl p{
+    font-size: 12px;
+}
+
+.instagram_facebook_login_contact_copyright_yellow_co p, .spread_goodness_and_bloom3_get_it_girl{
+    font-family: Unna;
+}
+
+.instagram_facebook_login_contact_copyright_yellow_co span:hover{
+    color: rgb(209, 165, 52);
+    cursor: pointer;
+}
+
+@media screen and (max-width: 600px){
+  
+    .footer{
+      padding: 17px;
+      width: 100%;
+    }
+
+
+    form input, textarea{
+        width: 100%;
+    }
+    
+    .send_message{
+        width: 35%;
+        height: 50px;
+        margin-right: 290px;
+      
+    }
+    .send_message:hover{
+        background-color: blue;
+        color: white;
+        cursor: pointer;
+    }
+
+    .linel_footer{
+        width: 100%;
+    }
+
+    .footer_informs{
+        display: block;
+        text-align: start;
+    }
+
+
+    .footer_inform{
+        margin: 0 0 80px 0;
+    }
+    .icon_hop_on_our_email_list_footer{
+        margin-top: 120px;
+    }
+
+    .foter_finish{
+        display: block;
+        margin-top: -20px;
+    }
+
+    .instagram_facebook_login_contact_copyright_yellow_co{
+        text-align: start;
+        line-height: 80px;
+        opacity: 0.7;
+    }
+ .spread_goodness_and_bloom3_get_it_girl{
+    text-align: end;
+    margin-top: -120px;
+    opacity: 0.7;
+}
+
+.sayt_texts{
+    word-spacing: 3px;
+}
+  
+      
+    }

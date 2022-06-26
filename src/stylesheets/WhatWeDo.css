@@ -1,0 +1,218 @@
+.what_we_do{
+    width: 70%;
+    margin: 0 auto;
+    padding: 0px 90px 0;
+    margin-top: 150px;
+}
+ .what_we_do_img{
+    height: 500px;
+    cursor: pointer;
+
+}
+ .swiper-slide {
+    width:  auto;
+    height: 100%;
+   
+  
+}
+
+.what_we_do_img img{
+    height: 100%;
+    
+} 
+
+.line img{
+    padding: 27px 0;
+    width: 100%;
+}
+
+.what_we-do_member_ship{
+    display: flex;
+    justify-content: center;
+}
+
+.what_we_do_main{
+    text-align: end;
+}
+
+.what_we_do_main_text{
+    font-size: 45px;
+    font-weight: normal;
+    margin-top: 50px;
+    padding: 17px;
+}
+
+.what_we_do_main_img{
+
+    height: 317px;
+    margin: 100px -30px 0 0;
+    
+}
+
+.visit_the_blog{
+    display: flex;
+    justify-content: end;
+    font-size: 45px;
+    font-weight: normal;
+    font-family: freight-big-pro;
+    padding: 17px;
+    margin-top: 50px;
+    
+}
+
+.visit_the_blog:hover{
+    color: rgb(187, 159, 0);
+}
+
+.visit_the_blog span{
+
+    margin: 0 30px 0 0;
+    width: 52px;
+    height: 50px;
+    
+}
+ 
+.member_ship{
+    
+    margin: 150px 0 0 30px;
+}
+.member_ship_img_what_we_do{
+   padding: 17px;
+  width: 39%;
+  margin-right: 50px;
+}
+
+.what_we_do_main_video img{
+    height: 317px;
+    width: 100%;
+}
+
+.what_we_do_main_video{
+    margin-top: 50px;
+}
+
+.tochka{
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+
+.what_we_do_img_informs{
+    margin-top: 50px;
+    position: relative;
+    padding-bottom: 30.299999%;
+    overflow: hidden;
+}
+.what_we_do_img_informs img{
+    top: -93.1487%;
+    width: 100%;
+    position: absolute;
+}
+
+.informs h1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+
+.informs a, .deeper{
+    text-decoration: none;
+    color: black;
+    font-size: 45px;
+   font-weight: normal;
+   margin: 10px 190px;
+   text-align: center;
+   line-height: 60px;
+}
+.deeper:hover, .free:hover{
+    color: rgb(187, 159, 0);
+}
+
+.informs .free{
+    margin: 10px 210px;
+    line-height: 60px;
+}
+
+.informs a em {
+    font-family: freight-big-pro;
+}
+
+
+@media screen and (max-width: 600px){
+    .what_we_do{
+        padding: 0;
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .what_we_do_main_text{
+        margin-top: 20px;
+    }
+    .what_we_do_img{
+        width: 80%;
+        height: 250px;
+        
+    }
+    .line img{
+        width: 85%;
+    }
+
+    .what_we-do_member_ship {
+      display: block;
+      margin-right: 30px;
+    }
+
+  .what_we_do_main_img img{
+        width: 90%;
+        margin: -80px 40px 0 0;
+        
+    }
+
+    .visit_the_blog{
+        display: flex;
+        justify-content: start;
+        margin-top: -70px;
+        padding: 0;
+    }
+    .tochka{
+        position: absolute;
+        margin: -170vh 0px 0 0;
+        right: 40px;
+        display: none;
+    }
+
+    .member_ship{
+        margin-top: 80px;
+    }
+    
+    .member_ship_img_what_we_do{
+        width: 100%;
+        padding: 0;
+          
+    } 
+    .member_ship_img_what_we_do img{
+        width: 100%;
+       
+    }
+
+    .member_ship_img_what_we_do
+
+    .what_we_do_main_video img{
+        height: 250px;
+      
+    }
+    
+    .what_we_do_img_informs{
+        text-align: start;
+        margin: 30px;
+    }
+
+    .informs a{
+        width: 92%;
+        margin: 10px 17px;
+    }
+        
+}

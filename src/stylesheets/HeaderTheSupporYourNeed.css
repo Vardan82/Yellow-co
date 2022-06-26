@@ -1,0 +1,481 @@
+.header_the_suppor_your_need{
+    margin: 0 auto;
+    width: 70%;
+    padding: 0px 90px 0;
+}
+
+.img_the_support_you_need{
+    display: flex;
+    margin-top: 100px;
+   justify-content: center;
+}
+
+.member_ship_img{
+  padding: 17px;
+  width: 39%;
+  margin-right: 50px;
+}
+
+.the_support_you_need_text{
+    padding: 17px;
+    margin-top: 75px;
+    width: 42%;
+}
+
+.em{
+    font-size: 45px;
+    margin: 0 0 13.5px;
+    font-family: freight-big-pro;
+    
+}
+.the_support_you_need_text p{
+    line-height: 28px;
+    margin-top: 20px;
+}
+
+em, strong{
+    font-weight: bold;
+}
+
+.strong:hover{
+    cursor: pointer;
+    color: rgb(146, 108, 10);
+}
+
+.header_the_suppor_your_need_linel{
+    margin: 30px 50px;
+    text-align: center;
+    width: 80%;
+    height: 1px;
+    border: .1px solid  rgb(230, 230, 230);
+}
+
+.as_seen_on{
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+.the_support_you_need_imges{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.the_support_you_need_imges img{
+    width: 27%;
+    height: 142px;
+    margin-top: 80px;
+}
+
+.img_download_our_day{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.img_download {
+    padding: 25px;
+    width: 49%;
+    position: relative;
+    overflow: hidden;
+    margin-top: 25px;
+}
+
+.img_download img{
+    top: -28.1487%;
+    width: 100%;
+    position: relative;
+}
+
+.download_our_day{
+    padding: 17px;
+    width: 43%;
+      
+}
+
+.download_our_day h1{
+    font-size: 45px;
+    margin: 0 0 13.5px;
+   font-family: freight-big-pro;
+   font-weight: normal;
+   line-height: 65px;
+}
+
+.download_our_day p{
+    line-height: 25px;
+}
+
+.download_our_day button{
+    width: 195px;
+    height: 43px;
+    margin-top: 45px;
+    background-color: #FAF6EF;
+    transition: 0.2s;
+    font-size: 12px;
+    padding: 13px 36px;
+    letter-spacing: 2px;
+    font-family: Karla;
+}
+
+.download_our_day button:hover{
+    color: white;
+    background-color: black;
+  
+}
+
+.img_down{
+    width: 100%;
+    text-align: center;
+}
+.img_down img{
+    width: 85%;
+}
+
+.popular_postos{
+    width: 100%;
+    padding: 17px;
+}
+
+.popular_postos h1{
+    width: 85%;
+    font-size: 45px;
+    font-family: freight-big-pro;
+    font-weight: normal;
+    margin-left: 50px;
+}
+
+.nav_img_popular_postos{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 30px 30px 0;
+}
+
+.img_popular_postos{
+    width: 33%;
+    overflow: hidden;
+    padding-bottom: -58.299999%;
+    height: 460px;
+}
+
+.img_popular_postos img{
+    top: -10.1487%;
+    width: 95%;
+    height: 217px;
+
+ 
+}
+.img_popular_postos span{
+     font-size: 30px;
+     margin-top: -50px;
+     width: 95%;
+     font-family: freight-big-pro;
+     line-height: 40px;
+     letter-spacing: 1.5px;
+}
+.img_popular_postos p{
+    font-size: 13px;
+    color: #1C2018B3;
+}
+
+.img_popular_postos span:hover, .img_popular_postos p:hover{
+    color: rgb(146, 108, 10);
+    cursor: pointer;
+}
+.head_to_the_blog{
+    text-align: end;
+    margin-right: 50px;
+    margin-top: -50px;
+}
+.head_to_the_blog button{
+    width: 210px;
+    height: 43px;
+    background-color: #FAF6EF;
+    transition: 0.2s;
+    font-size: 12px;
+    padding: 13px 36px;
+    letter-spacing: 2px;
+    font-family: Karla;
+    text-align: end;
+}
+
+.head_to_the_blog button:hover{
+    background-color: black;
+    color: white;
+}
+
+.img_download_header_joinus{
+    margin-top: 100px;
+    position: relative;
+    padding-bottom: 25.299999%;
+    overflow: hidden;
+    height: 475px;
+    width: 96%;
+    padding: 17px;
+}
+
+.img_download_header_joinus img{
+    top: -26.1487%;
+    width: 100%;
+    position: absolute;
+}
+
+.img_download_line img{
+    width: 100%;
+    margin-top: 150px;
+}
+
+.join_us_text{
+    display: flex;
+    padding: 17px;
+}
+
+.join_us{
+    width: 40%;
+}
+
+.join_us h2{
+    font-size: 36px;
+    font-weight: normal;
+}
+
+.text{
+    width: 60%;
+    line-height: 25px;
+}
+
+.text p{
+    margin:  0 0 28px;
+}
+
+.hang_out_with_on_the_gram{
+    margin-top: 100px;
+    padding: 0 17px 17px;
+    
+}
+
+.hang_out_with_on_the_gram h3{
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: 3px;
+}
+
+.image_asset{
+    width: 100%;
+    padding: 17px 0;
+    display: flex;
+    justify-content: center;
+
+}
+.image_asset_img{
+    text-align: center;
+}
+.image_asset_play {
+    position: absolute;
+    margin: 5% 15% 0 0;
+    
+}
+.image_asset_play img{
+    width: 88px;
+    height: 88px;
+    
+
+}
+.image_asset_img img{
+    width: 77%;
+    height: 98%;
+}
+
+.header_hop_on_our_email_list{
+    display: flex;
+    
+}
+
+.body_hop_on_our_email_list{
+    width: 75%;
+    text-align: end;
+    
+}
+.hop_on_our_email_list button {
+    width: 250px;
+    height: 43px;
+    margin: 100px 0 30px 0;
+    background-color: #FAF6EF;
+    transition: 0.2s;
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-family: Karla;
+    
+}
+
+.hop_on_our_email_list button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.body_hop_on_our_email_list_line{
+    text-align: center;
+   
+}
+
+.body_hop_on_our_email_list_line img{
+    width: 100%;
+}
+.icon_hop_on_our_email_list{
+    width: 22%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.icon_hop_on_our_email_list img{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+}
+
+
+.vke:hover   img:nth-child(2) {
+    opacity: 0.4;
+    cursor: pointer;
+    
+}
+
+@media screen and (max-width: 600px){
+  
+    .header_the_suppor_your_need{
+      padding: 0;
+      width: 100%;
+      
+    }
+
+    .img_the_support_you_need{
+        display: block;
+    }
+
+    .member_ship_img{
+        margin-top: -80px;
+    }
+    .the_support_you_need_text{
+        width: 100%;
+        margin-top: -10px;
+        text-align: start;
+    }
+
+    .the_support_you_need_text em{
+        font-weight: normal;
+    }
+
+    .the_support_you_need_imges{
+        width: 100%;
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    .the_support_you_need_imges img{
+        width: 100%;
+        height: 90px;
+        margin-top: 50px;
+    }
+
+    .header_the_suppor_your_need_linel{
+        width: 90%;
+        margin: 15px;
+    }
+
+    .img_download_our_day{
+        display: block;
+        margin: 0;
+        
+    }
+    .img_download{
+        width: 100%;
+        height: 220px;
+    }
+
+    .download_our_day{
+        width: 100%;
+     
+    }
+
+    .popular_postos h1{
+        margin: 0;
+    }
+
+    .nav_img_popular_postos{
+        display: block;
+    }
+
+    .img_popular_postos{
+        width: 100%;
+        height: 400px;
+        text-align: start;
+    }
+
+    .img_download_header_joinus{
+        text-align: start;
+        margin-top: 30px;
+        width: 92%;
+        height: 180px;
+    }
+
+    .img_download_line img{
+        width: 90%;
+        margin-top: 20px;
+    }
+
+    .img_download_line{
+        width: 97%;
+    }
+
+    .join_us_text{
+        display: block;
+    }
+
+    .join_us, .text{
+        width: 100%;
+        text-align: start;
+        margin-top: 40px;
+    }
+
+    .hang_out_with_on_the_gram{
+        margin-top: 30px;
+    }
+
+    .image_asset{
+        display: grid;
+        grid-template-columns: auto auto;
+        padding: 17px;
+    }
+
+    .image_asset img{
+        width: 95%;
+    }
+
+    .image_asset_play{
+        width: 100%;
+        margin: 17% 0 0 16%;
+    }
+    .image_asset_play img{
+        width: 58px;
+        height: 58px;
+       
+    }
+
+    .body_hop_on_our_email_list{
+        width: 98%;
+    }
+
+    .header_hop_on_our_email_list{    display: flex;
+       display: flex;
+        flex-direction: column;
+        align-items: end;
+        width: 96%;
+    }
+
+    .body_hop_on_our_email_list_line, .icon_hop_on_our_email_list{
+        display: flex;
+        justify-content: center;
+        width: 96%;
+    }
+
+
+}
